@@ -6,9 +6,8 @@ The system is well optimized and it's working great even on old mobile devices.
 
 
 
+![image](https://drive.google.com/uc?export=view&id=1vn0CygLtsfWT1LTCIg6837OG7CSLWLk8)
 
-
-![img](https://raw.githubusercontent.com/danix2d/Images/main/lights.png)
 ## Features
 
 - Real-Time
