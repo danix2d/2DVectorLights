@@ -1,5 +1,5 @@
 
-# 2D Vecto Lights
+# 2D Vector Lights
 
 2D real-time lights and shadow system for mobile devices. 
 The system is well optimized and is working great even on old mobile devices.
