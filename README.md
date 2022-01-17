@@ -2,7 +2,7 @@
 # 2D Vector Lights
 
 2D real-time lights and shadow system for mobile devices. 
-The system it's well optimized and is working great even on old mobile devices.
+The system is well optimized and it's working great even on old mobile devices.
 
 
 
